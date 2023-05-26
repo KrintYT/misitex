@@ -1,3 +1,0 @@
-pyarmor
-requests
-socket
